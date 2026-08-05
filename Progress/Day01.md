@@ -1,6 +1,8 @@
-### Day 1
+# Day 01 Progress
 
-Python:
+## Python
+
+Completed:
 - list
 - function
 - loop
@@ -8,17 +10,33 @@ Python:
 - dictionary
 - enumerate()
 
-NumPy:
+## NumPy
+
+Completed:
 - array
 - shape
-- indexing
 - slicing
-- matrix multiplication
+- indexing
+- matrix operation
 
-Leetcode:
-- Two Sum
-  - brute force O(n^2)
-  - hashmap O(n)
 
-Current level:
-Python foundation rebuilding
+## Leetcode
+
+### Two Sum
+
+Brute Force:
+- Nested loop
+- Time complexity: O(n^2)
+
+Hashmap:
+- Dictionary
+- Time complexity: O(n)
+- Space complexity: O(n)
+
+
+## Notes
+
+Main difficulty:
+- Understanding dictionary
+- Understanding return position
+
