@@ -1,33 +1,68 @@
 # Day 02 - Pandas Basics
 
-Date: 2026-08-06
-
 ## Goal
 
-Learn how to use Pandas for data manipulation and prepare datasets for machine learning.
-
-Pipeline:
-
-Raw Data
-↓
-Pandas DataFrame
-↓
-Data Cleaning
-↓
-Feature Engineering
-↓
-X, y Preparation
+Learn how Pandas is used for data manipulation and ML preprocessing.
 
 
----
+## 1. DataFrame and Series
 
-# 1. DataFrame and Series
+内容
 
-## DataFrame
 
-A DataFrame is a 2-dimensional table structure.
+## 2. Data Inspection
 
-Example:
+shape/info/describe
 
-```python
-df = pd.DataFrame(data)
+
+## 3. Selecting Data
+
+loc/iloc
+
+
+## 4. Filtering Data
+
+boolean masking
+
+
+## 5. Missing Values
+
+isnull/dropna/fillna
+
+
+## 6. Sorting Data
+
+sort_values
+
+
+## 7. Feature Engineering
+
+creating new features
+
+
+## 8. apply()
+
+function transformation
+
+
+## 9. Preparing Dataset for ML
+
+X and y
+
+
+## Practice Completed
+
+- DataFrame creation
+- filtering
+- missing value handling
+- feature creation
+
+
+## Summary
+
+Pandas transforms raw data into a machine learning ready dataset.
+
+
+## Next
+
+Introduction to sklearn
